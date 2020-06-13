@@ -11,7 +11,7 @@ Assume the scenario an application 'x' wants to access your google contacts to s
 * **Redirect URI:** callback to the client 'x'
 * **Access token:** client 'x' gets a token which indicates what resources x can access
 * **scope:** the scope(define in authorization server) which limits the grant level
-* **consent:**the screen where user says yes/no
+* **consent:** the screen where user says yes/no
 
 ![alt text](https://github.com/shivarach/openid-connect-oauth/blob/master/oatuh2Authorization.png?raw=true)
 
